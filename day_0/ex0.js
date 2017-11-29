@@ -48,4 +48,3 @@ if(amount > bank_balance){
         "Here you are :D"
     );
 }
-elo
