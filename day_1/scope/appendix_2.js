@@ -15,5 +15,5 @@
     };
     var id = "not awesome";
     obj.cool(); // awesome
-    setTimeout(obj.cool,1000); //undefined even tho it should or not be "not awesome"
+    setTimeout(obj.cool,1000); //undefined even tho it should be "not awesome"
 }
