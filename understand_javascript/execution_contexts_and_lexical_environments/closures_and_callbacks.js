@@ -28,3 +28,4 @@ tellMeWhenDone(function() {
 tellMeWhenDone(function() {
     console.log("All done...");
 });
+tellMeWhenDone();
