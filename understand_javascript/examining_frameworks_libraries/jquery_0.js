@@ -1,2 +1,1 @@
-// an open source education
-
+//
