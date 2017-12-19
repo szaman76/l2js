@@ -18,17 +18,17 @@ Support jQuery
             return new Greetr.init(firstName,lastName,language);
         }
 
-        var supportedLangs = ["en", "pl"]
+        var supportedLangs = ["en", "pl"];
 
-        greetings = {
+        var greetings = {
             en: "Hello",
             pl: "Czesc"
-        }
+        };
 
-        formalGreetings = {
+        var formalGreetings = {
             en: "Greetings",
             pl: "Witaj"
-        }
+        };
 
 
         Greetr.prototype = {
