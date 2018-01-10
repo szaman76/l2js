@@ -1,6 +1,6 @@
 function foo() {
     function bar(a) {
-    /*  use var or j = 3  */  i = 3; // changing the "i" in for loop 
+    /*  use var = 3 or j = 3  */  i = 3; // changing the "i" in for loop 
         console.log(a +i)
     }
 
